@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c794ef57364a0fe44a243bec9379c0fd, type: 3}
+  m_Name: Slade, Ky
+  m_EditorClassIdentifier: 
+  location: 0
+  date: Monday, 7 22 2024
+  currentTemp: 74
+  expectedTemp12a: 78
+  expectedTemp6a: 77
+  expectedTemp12p: 80
+  expectedTemp6p: 79
+  expectedWeatherIcon12a: {fileID: 0}
+  expectedWeatherIcon6a: {fileID: 0}
+  expectedWeatherIcon12p: {fileID: 0}
+  expectedWeatherIcon6p: {fileID: 0}
+  humidity: 81.8
+  windSpeed: 9
+  windDirection: 1
+  skies: 3
+  precip: 1
+  visibilityInMiles: 2.24
+  visibiityStatement: 2
+  extremeWeather: 4
+  importantUpdates: Test
+  marqueeMessageA: Test 2
+  marqueeMessageB: Test 3
+  SpecialWeatherStatement: []
